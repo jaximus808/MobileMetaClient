@@ -1,2 +1,3 @@
 ﻿  main.cpp
+C:\Users\jaxim\OneDrive\Desktop\CodingProjects\ScienceFair2022_2023_Client\main.cpp(270,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   ScienceFair2022_2023_Client.vcxproj -> C:\Users\jaxim\OneDrive\Desktop\CodingProjects\ScienceFair2022_2023_Client\x64\Debug\ScienceFair2022_2023_Client.exe
